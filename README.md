@@ -1,4 +1,3 @@
-[![foodgram-project](https://github.com/Denisscore/foodgram-project/workflows/foodgram/badge.svg)](https://github.com/Denisscore/foodgram-project/actions)
 
 # **Yatube блог**
 
@@ -47,6 +46,9 @@
         
         
 #**Компоненты**
- ##Django 2.2
- ##Pillow 7
- ##Bootstrap 3
+ - Django 2.2
+ - Pillow 7
+ - Bootstrap 3
+ 
+#**Автор**
+[Denis Sharkhov](https://github.com/Denisscore)
